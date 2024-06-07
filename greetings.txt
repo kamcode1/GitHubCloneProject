@@ -1,1 +1,1 @@
-Hello, this is amessage from clone repository!
+Hello, this is a message from clone repository!
